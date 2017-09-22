@@ -1,0 +1,27 @@
+body {
+     background-color: #091c59;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  color: #bcdaff;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color: #bcdaff;
+}
+
+ol {
+   font-family: 'Abel', sans-serif;
+   font-size: 17px;
+   color: #ffffff;
+}
+
+ul{
+  font-family: 'Abel', sans-serif;
+  font-size: 17px;
+  color: #ffffff;
+}
